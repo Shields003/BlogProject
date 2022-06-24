@@ -1,0 +1,9 @@
+/* image */
+
+.image {
+    background-size: contain;
+    justify-content: center;
+    align-items: center;
+    size-adjust: auto;
+    margin-bottom: 20px;
+}
